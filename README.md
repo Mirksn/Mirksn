@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mirksn 😤
+- 👋 Hi, I’m _@Mirksn_ 😤
 - 👀 I’m interested in everything with computers 🤑
 - 🌱 I’m currently learning game and WEB development + HTML,CSS,C#,Javascript 🥴
 - 💞️ I’m looking to collaborate on love ;( 🤠
